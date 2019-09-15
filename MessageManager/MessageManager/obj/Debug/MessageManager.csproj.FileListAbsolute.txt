@@ -1,0 +1,19 @@
+D:\OCTRINSIC_WITH_ARDUINO\C_SHARP_CODE\MessageManager\MessageManager\bin\Debug\MessageManager.exe.config
+D:\OCTRINSIC_WITH_ARDUINO\C_SHARP_CODE\MessageManager\MessageManager\bin\Debug\MessageManager.exe
+D:\OCTRINSIC_WITH_ARDUINO\C_SHARP_CODE\MessageManager\MessageManager\bin\Debug\MessageManager.pdb
+D:\OCTRINSIC_WITH_ARDUINO\C_SHARP_CODE\MessageManager\MessageManager\obj\Debug\MessageManager.csprojResolveAssemblyReference.cache
+D:\OCTRINSIC_WITH_ARDUINO\C_SHARP_CODE\MessageManager\MessageManager\obj\Debug\MessageManager.Form1.resources
+D:\OCTRINSIC_WITH_ARDUINO\C_SHARP_CODE\MessageManager\MessageManager\obj\Debug\MessageManager.Properties.Resources.resources
+D:\OCTRINSIC_WITH_ARDUINO\C_SHARP_CODE\MessageManager\MessageManager\obj\Debug\MessageManager.csproj.GenerateResource.Cache
+D:\OCTRINSIC_WITH_ARDUINO\C_SHARP_CODE\MessageManager\MessageManager\obj\Debug\MessageManager.exe
+D:\OCTRINSIC_WITH_ARDUINO\C_SHARP_CODE\MessageManager\MessageManager\obj\Debug\MessageManager.pdb
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\MessageManager\MessageManager\bin\Debug\MessageManager.exe.config
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\MessageManager\MessageManager\bin\Debug\MessageManager.exe
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\MessageManager\MessageManager\bin\Debug\MessageManager.pdb
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\MessageManager\MessageManager\obj\Debug\MessageManager.csprojAssemblyReference.cache
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\MessageManager\MessageManager\obj\Debug\MessageManager.Form1.resources
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\MessageManager\MessageManager\obj\Debug\MessageManager.Properties.Resources.resources
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\MessageManager\MessageManager\obj\Debug\MessageManager.csproj.GenerateResource.cache
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\MessageManager\MessageManager\obj\Debug\MessageManager.csproj.CoreCompileInputs.cache
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\MessageManager\MessageManager\obj\Debug\MessageManager.exe
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\MessageManager\MessageManager\obj\Debug\MessageManager.pdb
